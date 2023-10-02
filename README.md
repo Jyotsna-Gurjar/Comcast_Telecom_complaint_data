@@ -1,1 +1,1 @@
-A guided Project , analysing the pattern in the complaints registered at comcast
+Analyzation of the patterns in the complaints registered at comcast
